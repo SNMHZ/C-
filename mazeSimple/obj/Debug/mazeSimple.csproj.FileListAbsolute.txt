@@ -1,0 +1,11 @@
+C:\Users\SNMHZ\source\repos\mazeSimple\mazeSimple\bin\Debug\mazeSimple.exe.config
+C:\Users\SNMHZ\source\repos\mazeSimple\mazeSimple\bin\Debug\mazeSimple.exe
+C:\Users\SNMHZ\source\repos\mazeSimple\mazeSimple\bin\Debug\mazeSimple.pdb
+C:\Users\SNMHZ\source\repos\mazeSimple\mazeSimple\obj\Debug\mazeSimple.csprojAssemblyReference.cache
+C:\Users\SNMHZ\source\repos\mazeSimple\mazeSimple\obj\Debug\mazeSimple.Properties.Resources.resources
+C:\Users\SNMHZ\source\repos\mazeSimple\mazeSimple\obj\Debug\mazeSimple.csproj.GenerateResource.cache
+C:\Users\SNMHZ\source\repos\mazeSimple\mazeSimple\obj\Debug\mazeSimple.csproj.CoreCompileInputs.cache
+C:\Users\SNMHZ\source\repos\mazeSimple\mazeSimple\obj\Debug\mazeSimple.exe
+C:\Users\SNMHZ\source\repos\mazeSimple\mazeSimple\obj\Debug\mazeSimple.pdb
+C:\Users\SNMHZ\source\repos\mazeSimple\mazeSimple\obj\Debug\mazeSimple.Form1.resources
+C:\Users\SNMHZ\source\repos\mazeSimple\mazeSimple\obj\Debug\mazeSimple.Form2.resources
